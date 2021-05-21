@@ -1,4 +1,5 @@
 # Ad-B-Gone
+## Ad-B-Gone: The simple bookmarklet that removes ads from web pages!
 This is a bookmarklet that can block ads for you if you do not have access to extensions!
 
 This bookmarklet is very simple to use.
