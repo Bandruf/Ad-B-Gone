@@ -27,3 +27,5 @@ This is a bookmarklet that can block ads for you if you do not have access to ex
 I hope this helps! 
 
 If you find any issues you can report it [here!](https://github.com/3kh0/Ad-B-Gone/issues)
+
+You can view the GitHub page [here](https://github.com/3kh0/Ad-B-Gone)
